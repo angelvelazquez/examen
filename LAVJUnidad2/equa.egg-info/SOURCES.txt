@@ -1,0 +1,6 @@
+equa.py
+setup.py
+equa.egg-info/PKG-INFO
+equa.egg-info/SOURCES.txt
+equa.egg-info/dependency_links.txt
+equa.egg-info/top_level.txt
